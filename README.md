@@ -4,7 +4,5 @@
 
 Front-end Developer at Consulta Remédios.
 
-Enthusiast of technology, Typescript lover, working each day to be better than yesterday make people's life better with my solutions.
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joao-pedrozo&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
